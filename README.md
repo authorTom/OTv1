@@ -6,7 +6,7 @@ This journey will take me into the unknown. There is a lot I want to achieve, as
 
 ## Table of contents
 
-- [Product Requirements] (#product-requirements)
+- [Product Requirements](#product-requirements)
 
 ## Product requirements
 
