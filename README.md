@@ -7,15 +7,20 @@ This journey will take me into the unknown. There is a lot I want to achieve, as
 ## Table of contents
 
 - [Product Requirements](#product-requirements)
+- [Enclosure](#enclosure)
+- [Controllers](#controllers)
+- [Electronic Components](#electronic-components)
+- [Operating System](#operating-system)
+- [Software](#software)
 
-## Product requirements
+## Product Requirements
 
 ## Enclosure
 
 ## Controllers
 
-## Electronic components
+## Electronic Components
 
-## Operating system / firmware
+## Operating System
 
 ## Software
