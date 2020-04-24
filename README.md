@@ -6,7 +6,9 @@ This journey will take me into the unknown. There is a lot I want to achieve, as
 
 ## Product requirements
 
-## Enclosure and controllers
+## Enclosure
+
+## Controllers
 
 ## Electronic components
 
