@@ -30,3 +30,4 @@ This journey will take me into the unknown. There is a lot I want to achieve, as
 ## More Resources
 
 ## license
+This project is licensed under the terms of the MIT license.
