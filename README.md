@@ -12,6 +12,8 @@ This journey will take me into the unknown. There is a lot I want to achieve, as
 - [Electronic Components](#electronic-components)
 - [Operating System](#operating-system)
 - [Software](#software)
+- [More Resources](#more-resources)
+- [License](#license)
 
 ## Product Requirements
 
@@ -24,3 +26,7 @@ This journey will take me into the unknown. There is a lot I want to achieve, as
 ## Operating System
 
 ## Software
+
+## More Resources
+
+## license
