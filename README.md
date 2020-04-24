@@ -4,6 +4,10 @@ Over the years I have enjoyed tinkering and playing with computer components and
 
 This journey will take me into the unknown. There is a lot I want to achieve, as my knowledge grows so will the boundaries and limitations of this project. The learning curve will be steep, and I expect to encounter many a challenge and problem that will need solving. What is even more exciting is being able to share this journey with you.
 
+## Table of contents
+
+- [Product Requirements] (#product-requirements)
+
 ## Product requirements
 
 ## Enclosure
