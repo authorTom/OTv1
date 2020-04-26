@@ -7,7 +7,7 @@ Developing a game console will be a practical way for me to learn about product,
 ## Table of contents
 
 - [Product Requirements](#product-requirements)
-- [Enclosure and Product Design](#enclosure)
+- [Enclosure and Product Design](#enclosure-and-product-design)
 - [Controllers](#controllers)
 - [Electronic Components](#electronic-components)
 - [Operating System](#operating-system)
@@ -17,7 +17,7 @@ Developing a game console will be a practical way for me to learn about product,
 
 ## Product Requirements
 
-## Enclosure
+## Enclosure and Product Design
 
 ## Controllers
 
