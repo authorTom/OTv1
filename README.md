@@ -6,28 +6,11 @@ Developing a game console will be a practical way for me to learn about product,
 
 ## Table of contents
 
-- [Product Requirements](#product-requirements)
-- [Enclosure and Product Design](#enclosure-and-product-design)
-- [Controllers](#controllers)
-- [Electronic Components](#electronic-components)
-- [Operating System](#operating-system)
-- [Software](#software)
-- [More Resources](#more-resources)
-- [License](#license)
-
-## Product Requirements
-
-## Enclosure and Product Design
-
-## Controllers
-
-## Electronic Components
-
-## Operating System
-
-## Software
-
-## More Resources
-
-## License
-This project is licensed under the terms of the MIT license.
+- [Product Requirements](https://github.com/authorTom/toms_game_console_project/wiki/Product-Requirements)
+- [Enclosure and Product Design](https://github.com/authorTom/toms_game_console_project/wiki/Enclosure-and-Product-Design)
+- [Controllers](https://github.com/authorTom/toms_game_console_project/wiki/Controllers)
+- [Electronic Components](https://github.com/authorTom/toms_game_console_project/wiki/Electronic-Components)
+- [Operating System](https://github.com/authorTom/toms_game_console_project/wiki/Operating-System)
+- [Software](https://github.com/authorTom/toms_game_console_project/wiki/Software)
+- [More Resources](https://github.com/authorTom/toms_game_console_project/wiki/More-Resources)
+- [License](https://github.com/authorTom/toms_game_console_project/wiki/License)
