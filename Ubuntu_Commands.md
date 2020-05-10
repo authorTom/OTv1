@@ -1,4 +1,5 @@
 # Ubuntu Commands & Cheat Sheet
+Currently running a fresh install of Ubuntu Server 20.04
 
 ## Post-install tasks
 
