@@ -37,7 +37,7 @@ Remember <code>sudo update-grub</code> to apply changes
 
 Edit the console-messages config file
 
-nano /etc/sysctl.d/10-console-messages.conf
+<code>sudo nano /etc/sysctl.d/10-console-messages.conf</code>
 
 and change the following line to the values below
 
