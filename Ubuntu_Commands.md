@@ -1,5 +1,13 @@
 # Ubuntu Commands & Cheat Sheet
 
+## Post-install tasks
+
+<code>sudo apt-get update -y</code>
+
+<code>sudo apt-get upgrade -y</code>
+
+<code>sudo apt-get install nano net-tools -y</code>
+
 ## Silenting bootup
 
 ### Silent Boot and display generic splash screen (remove kernel messages)
