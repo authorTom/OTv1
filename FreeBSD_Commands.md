@@ -1,1 +1,0 @@
-# FreeBSD Commands & Cheat Sheet
